@@ -31,7 +31,7 @@ I’m passionate about bridging **academic research and practical AI application
 I’m open to academic collaborations, AI consultancy, and co-supervision opportunities in biomedical and cognitive computing domains.  
 📫 **Email:** ahsan.shahzad@ceme.nust.edu.pk  
 🔗 **LinkedIn:** [linkedin.com/in/ahsan-shahzad-05](https://www.linkedin.com/in/ahsan-shahzad-05)  
-🔗 **Google Scholar:** [View Publications](#) *(add your link)*  
+🔗 **Google Scholar:** [View Publications](https://scholar.google.com/citations?user=_dnlb38AAAAJ&hl=en)  
 
 ---
 
