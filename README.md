@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Dr. Ahsan Shahzad
 
 **Assistant Professor, Department of Computer & Software Engineering, NUST (Pakistan)**  
-**Research Areas:** Artificial Intelligence, Biomedical Signal Processing, Wearable Sensing, Cognitive Health  
+**Research Areas:** Artificial Intelligence, Biomedical Signal Processing, m-health Systems, Wearable Sensing, Contactless Sensing, Cognitive Health  
 **Former Research Fellow:** Gwangju Institute of Science and Technology (GIST), South Korea  
 
 ---
